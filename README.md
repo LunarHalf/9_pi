@@ -1,4 +1,4 @@
-# 9_pi
+# ping-pong
 ## Acknowledgements
 
 - Original Pong concept by Atari, Inc.
